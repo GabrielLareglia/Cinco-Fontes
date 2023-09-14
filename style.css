@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Fira+Code:wght@500&family=Oleo+Script&family=PT+Serif&family=Space+Mono:ital@1&display=swap');
+
+body {
+    background-color: #121212;
+    text-align: justify;
+}
+
+h1 {
+    font-variant: small-caps;
+    text-align: center;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+    color: #eeff02;
+}
+
+p {
+    text-indent: 25px;
+    color: azure;
+    font-size: 18px;
+}
+
+.Font1Serif{
+    font-family: 'PT Serif';
+}
+
+.Font1Handwritting{
+    font-family: 'Cedarville Cursive';
+}
+
+.Font1Monospace{
+    font-family: 'Space Mono';
+}
+
+.Font1FiraCode{
+    font-family: 'Fira Code';
+}
+
+.Font1OleoScript{
+    font-family: 'Oleo Script';
+}
